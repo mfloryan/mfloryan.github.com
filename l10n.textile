@@ -17,6 +17,8 @@ h3. Grammar
 
 h3. Translations
 
+* *case* - wielkość liter
+** **ignore case** - bez względu na wielkość liter
 * *directory* - katalog
 * *edit* - modyfikacja, modyfikuj
 * *hide* - ukryj
@@ -24,6 +26,8 @@ h3. Translations
 * *load* - wczytaj
 * *mouse* - mysz
 * *options* - opcje
+* *oryginal* - wersja pierwona (_*nie* oryginał_)
 * *preferences* - ustawienia
-* *selected* - wyrane (raczej niż zaznaczone)
+* *selected* - wybrane (raczej niż zaznaczone)
 * *syntax highlight* 
+* *whitespace* - białe znaki
