@@ -1,0 +1,4 @@
+---
+layout: default
+title: l10n
+---

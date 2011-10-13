@@ -1,0 +1,43 @@
+body {
+	font-size: 16px;
+	color: #28233c;
+}
+
+#header {
+	width: 960px;
+	margin: auto;
+	background-color: #82005a;
+	color: white;
+	padding: 5px;
+	font-family: sans-serif;
+}
+
+#header h1, #header h2 {
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	color: #2a031f;
+}
+
+#content {
+	width: 960px;
+	margin: auto;
+}
+
+#footer {
+	border-top: 1px solid #28233c;
+	font-size: 12px;
+	text-align: center;
+	padding: 10px;
+	margin: 20px;
+}
+
+a {
+	color: #82005a;
+}
+
+a:hover {
+	color: #3c233a;
+}
