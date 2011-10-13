@@ -1,4 +1,28 @@
 ---
 layout: default
-title: l10n
+title: Some hints for Polish software translations
 ---
+
+h3. Grammar
+
+* *Menu Items*
+** Plik
+** Otwórz
+** Zakończ
+
+* *Tool Tips* - opis co dana funkcja wykona
+
+* *Checkboxes*
+** 
+
+h3. Translations
+
+* *preferences* - ustawienia
+* *options* - opcje
+* *directory* - katalog
+* *hide* - ukryj
+* *keyboard shortcuts* - skróty klawiaturowe
+* *mouse* - mysz
+* *edit* - modyfikacja, modyfikuj
+* *load* - wczytaj
+
