@@ -17,12 +17,13 @@ h3. Grammar
 
 h3. Translations
 
-* *preferences* - ustawienia
-* *options* - opcje
 * *directory* - katalog
+* *edit* - modyfikacja, modyfikuj
 * *hide* - ukryj
 * *keyboard shortcuts* - skróty klawiaturowe
-* *mouse* - mysz
-* *edit* - modyfikacja, modyfikuj
 * *load* - wczytaj
-
+* *mouse* - mysz
+* *options* - opcje
+* *preferences* - ustawienia
+* *selected* - wyrane (raczej niż zaznaczone)
+* *syntax highlight* 
