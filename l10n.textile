@@ -3,6 +3,12 @@ layout: default
 title: Some hints for Polish software translations
 ---
 
+I have been translating open-source software into Polish for a while.
+
+So far I have worked primarily on Inkscape, JOSM, openSuSE, KDE and Mixero.
+
+There are a few reasons why I like translating software. Primarily it requires good knowledge of both languages, the source and the target. Translations are never straight forward so it’s always a good challenge to find a precise and meaningful equivalent that is also concise. Finally, this is always a prefect opportunity to read some code.
+
 h3. Grammar
 
 * *Menu Items*
