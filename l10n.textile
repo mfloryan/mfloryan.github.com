@@ -11,12 +11,12 @@ There are a few reasons why I like translating software. Primarily it requires g
 
 h3. Grammar
 
-* *Menu Items*
+* *Menu Items* _tryb rozkazujący, druga osoba_
 ** Plik
 ** Otwórz
 ** Zakończ
 
-* *Tool Tips* - opis co dana funkcja wykona
+* *Tool Tips* - opis co dana funkcja wykona - _tryb oznajmujący, trzecia osoba_
 
 * *Checkboxes*
 ** 
@@ -32,7 +32,7 @@ h3. Translations
 * *load* - wczytaj
 * *mouse* - mysz
 * *options* - opcje
-* *oryginal* - wersja pierwona (_*nie* oryginał_)
+* *oryginal* - wersja pierwona (_*nie*_ _oryginał_ lub _oryginalny_)
 * *preferences* - ustawienia
 * *selected* - wybrane (raczej niż zaznaczone)
 * *syntax highlight* 
